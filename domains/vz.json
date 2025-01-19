@@ -1,0 +1,21 @@
+{
+  "repo": "https://github.com/Blitzar7/gooddev",
+
+  "owner": {
+    "username": "blitzar",
+    "email": "x@oyoo.us"
+  },
+
+  "target": {
+    "ns": {
+       "name": "vz", 
+       "value": "clara.ns.cloudflare.com"
+     }
+    "ns": {
+       "name": "vz", 
+       "value": "lex.ns.cloudflare.com"
+     }
+  },
+
+  "proxied": true
+}
